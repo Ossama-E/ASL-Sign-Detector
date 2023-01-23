@@ -1,2 +1,1 @@
-# ASL-Sign-Detector
-Description
+# Real-Time ASL Sign Detector 
